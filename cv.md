@@ -51,8 +51,8 @@ Developed content for dissemination via social media and company website.
 
 LANGUAGES
 --------------------
-* **English**
+* *English*
 Certified 120-Hour TESOL  
 
-* **Chinese**  
+* *Chinese*  
 Certified HSK5 
