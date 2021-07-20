@@ -2,11 +2,10 @@ Yana Shebashava
 ============
 
 Address         | Contact info          
---------------- |:------------------:
+--------------- |-------------------:
 Hanoi           | yn.shbshv@gmail.com 
-Vietnam         | +84 383189256    
-                | </head> 
-
+Vietnam         | +84 383189256      
+ 
 EXECUTIVE SUMMARY
 ---------
 Skilled financier with a MS in Applied Economics and 4+ years of English/Chinese teaching experience abroad, who has a strong passion and interest for web development. Seeking an opportunity to work at a company with a positive social mission.
