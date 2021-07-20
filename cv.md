@@ -1,11 +1,11 @@
 Yana Shebashava
 ============
 
--------------------        ----------------------------
-Address            |                       Contact INFO
-Hanoi              |                yn.shbshv@gmail.com
-Vietnam            |                      +84 383189256
--------------------        ----------------------------
+Address         | Contact info          
+--------------- |:------------------:
+Hanoi           | yn.shbshv@gmail.com 
+Vietnam         | +84 383189256    
+                | </head> 
 
 EXECUTIVE SUMMARY
 ---------
@@ -25,14 +25,14 @@ EDUCATION
 2015-2018
 :   **Master’s Degree, Applied Economics**; Harbin Institute of Technology (China)
 
-    *Thesis title:Development of Chinese-Belarusian Relations Within the
-    Framework of the Initiative “One Belt — One Way”*
+    Thesis title:Development of Chinese-Belarusian Relations Within the
+    Framework of the Initiative “One Belt — One Way"
 
 2011-2015
 :   **Bachelor’s Degree, Finance and Credit**; Belarusian-Russian University (Mogilev)
 
-    *Thesis title: Potential and Directions of Development of Financial Markets
-    in Belarus*
+    Thesis title: Potential and Directions of Development of Financial Markets
+    in Belarus
 
 EXPERIENCE
 ----------
@@ -51,8 +51,8 @@ Developed content for dissemination via social media and company website.
 
 LANGUAGES
 --------------------
-* *English*
+* **English**  
 Certified 120-Hour TESOL  
 
-* *Chinese*  
+* **Chinese**  
 Certified HSK5 
