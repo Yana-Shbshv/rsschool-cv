@@ -1,7 +1,7 @@
 Yana Shebashava
 ============
 
-`Address`       |: `Contact info`        
+`Address`       |      `Contact info`        
 --------------- |-------------------:
 Hanoi           | yn.shbshv@gmail.com 
 Vietnam         | +84 383189256      
