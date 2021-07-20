@@ -1,7 +1,7 @@
 Yana Shebashava
 ============
 
-Address         | Contact info          
+`Address`       |: `Contact info`        
 --------------- |-------------------:
 Hanoi           | yn.shbshv@gmail.com 
 Vietnam         | +84 383189256      
@@ -42,7 +42,7 @@ IRIS SCHOOL, Thai Nguyen, Vietnam
 
 Took part in the educational process of 100 students of 1-11th grades. Planned and delivered English language lessons that incorporated the use of authorial audio-visual aids and various English teaching methods.  
 
-**Media Manager**    
+**Media Manager:**    
 2019-2021  
 VV MALL, Da Nang, Vietnam    
 
