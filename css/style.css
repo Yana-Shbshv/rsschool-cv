@@ -54,12 +54,10 @@ h3 {
 }
 
 ul {
-  list-style: none;
-  padding: 0;
+  list-style-type: disc;
+  padding-left: 20px;
 }
 
 ul li {
-  background: url('bullet.png') no-repeat left center;
-  padding-left: 20px;
   margin-bottom: 5px;
 }
