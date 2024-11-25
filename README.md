@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Yana-Shbshv.github.io/rsschool-cv/
